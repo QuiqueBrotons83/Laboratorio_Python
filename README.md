@@ -7,13 +7,21 @@ En este proyecto se ha realizado un análisis detallado de los ingresos presupue
 
 
 ## 🗂️ Estructura del Proyecto
+<<<<<<< HEAD
     
     ├── 01-datos/                     # Carpeta donde contiene los datos que voy a trabajar
     ├── 01-notebook/                  # Traabajos realizados
+=======
+    ├── 01-notebook/                  # Carpeta donde contiene los datos que voy a trabajar
+>>>>>>> 41ca162979f59af72d6769f60e8c8c6d5745328c
     ├── 02-src/                       # SRC para la creación y utlización de definiciones que me ayudan a realizar consultas más optimas.
     ├── README.md                     # Descripción del proyecto
 ## 📊 Resultados y Conclusiones
 La conclusiones de esta base de datos las podemos ver en la carpeta notebook donde podremos analizar y sacar las mejores conclusiones de ella.
 
 ## ✒️ Autor
+<<<<<<< HEAD
 Quique Brotons - @Quique Brotons
+=======
+Quique Brotons - @Quique Brotons
+>>>>>>> 41ca162979f59af72d6769f60e8c8c6d5745328c
